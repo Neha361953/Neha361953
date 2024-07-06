@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyankajhatheanalyst&show_icons=true&locale=en&layout=compact" alt="priyankajhatheanalyst" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyankajhatheanalyst&show_icons=true&locale=en" alt="priyankajhatheanalyst" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nehatheanalyst&show_icons=true&locale=en" alt="nehatheanalyst" /></p>
   
 
   
